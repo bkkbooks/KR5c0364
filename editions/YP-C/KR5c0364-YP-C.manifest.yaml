@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR5c0364/YP-C/v1
+canonical_location: https://kanripo.org/bkk/KR5c0364/YP-C/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 西川青羊宮碑銘
+  date: '2015-08-29 00:56:57.285944'
+  source:
+    repository: kanripo
+    path: KR5c0364
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5c0364_000-YP-C.yaml, hash: 'sha256:a31294c10f6ba360819c0e145a7af26f11bc71996ffac19cdc1ad1057c2301ed'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5c0364_000-YP-C.markers.yaml, hash: 'sha256:1fec6c0d1f5a8ef59468640e8bfa61f5aec7f96e5102d3529a7722ee1ffbeac4'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5c0364_YP-C_27yiji-01-0081a
+    span:
+    - body
+    - 0
+    - 7902
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:537b073bbded122ff20008a13a063039a4af583e8717d62283f76a7bbcd409c7

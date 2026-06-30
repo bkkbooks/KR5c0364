@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR5c0364/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5c0364/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 西川青羊宮碑銘
+  date: '2015-08-29 00:56:57.285944'
+  source:
+    repository: kanripo
+    path: KR5c0364
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5c0364_000-CK-KZ-jye.yaml, hash: 'sha256:70503d2d6d4702c81938091ed089caa0acd046cc709aae94526b2912dbb0f9b8'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5c0364_000-CK-KZ-jye.markers.yaml, hash: 'sha256:091a4914e7a2096cd7bbf0ab1c49de4e3eb717117549288a531359380cd544d0'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5c0364_CK-KZ-jye_000-h1
+    span:
+    - body
+    - 0
+    - 7902
+  label: 西川青羊宮碑記
+  type: section
+  level: 1
+hash: sha256:5d5b91bc5ce0d1d29503cf9bf10ac76fe55f4fa0536fc3c395c2aa6bd8bb2ba0
