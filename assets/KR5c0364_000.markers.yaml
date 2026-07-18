@@ -21,6 +21,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR5c0364_HFL_000-001a02}
   - {type: indent, offset: 0, content: 　　, id: KR5c0364_krp_000-bkkind1}
   - {type: punctuation, offset: 0, content: (, id: KR5c0364_krp_000-bkkpn1}
+  - {type: voice, offset: 0, length: 30, name: note, id: n1}
   - {type: variant, offset: 3, length: 2, content: 聚首, CK-KZ: 士承旨}
   - {type: variant, offset: 3, length: 2, content: 聚首, CK-KZ-jye: 士承旨}
   - {type: variant, offset: 3, length: 2, content: 聚首, YP-C: 士承旨}
@@ -3262,4 +3263,4 @@ markers:
 
       ', id: KR5c0364_krp_000-bkkkrnewl527}
   back: []
-hash: sha256:7fc3bb5c8d662b1a2c0acd1749a776def63ba939b09b413bff58e38301d1b54c
+hash: sha256:db7f55a98614b110348ff23db0e0ddd2872775b1e7975e2041f67072a3634f52
